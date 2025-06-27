@@ -7,8 +7,8 @@ A repository for managing my shell and editor configuration files. Instead of ma
 - **Included (sourced) files** (`*.custom`, `*.local`)
   - Right now:  
     - `.bashrc.custom`
-  - In the future you can drop in:  
     - `.zshrc.custom`  
+  - In the future you can drop in:  
     - `.vimrc.custom`  
     - `.tmux.conf.local`  
     - `.gitconfig.local`  
